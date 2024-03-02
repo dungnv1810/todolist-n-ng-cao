@@ -1,0 +1,26 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.app{
+  text-align: center;
+  width: 100%;
+}
+.todo-list-header{
+  width: 100%;
+  height: auto;
+  border: 1px solid;
+  display: flex;
+  justify-content: space-between;
+}
+.add-todo-list{
+}
+.search-todo-list{
+}
+.selectoption{
+  width: 100%;
+  height: auto;
+  border: 1px solid;
+  display: flex;
+}
